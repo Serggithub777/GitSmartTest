@@ -1,0 +1,1 @@
+Принт Hello world!
